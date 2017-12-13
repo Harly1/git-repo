@@ -1,3 +1,7 @@
 w;
 r;
 t;
+Ivan;
+Petr;
+Vladimir;
+
